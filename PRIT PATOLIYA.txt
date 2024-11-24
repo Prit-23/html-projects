@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+            <title> MY PORTFOLIO </title>
+  <style> table, th, td {border:1px solid black;}</style>
+   </head>
+   <body>
+ <h1 style="color:black;"><center><b><u><i><font size="7">RESUME</h1></center></b></u></i></font>  
+ <img src="C:\Users\lenovo\Desktop\PRIT\prit.jpg">
+
+
+ <h3 style="color:green;"><u> MY INFORMATION </h3></u>
+ <p> NAME        :- Patoliya Prit</p> 
+ <p> ENT. NO.    :- T2404040300093 </p>
+ <p> EMAIL       :- pritpatoliya2006@gmail.com </p> 
+ <p> MOBILE NO.  :- 8424942064 </p> 
+  
+ 
+
+<h3 style="color:green;"><u> EDUCATIONAL INFO </h3></u>
+ <table> 
+ <tr> 
+ <th> Educational qualification </th>
+ <th> marks </th> 
+ <th>Institution name</th>
+ </tr> 
+
+ <tr> 
+ <td> 10th passed </td>
+ <td> 68% </td>
+ <td> Ramseth Thakur Public school </td> 
+ </tr>
+  
+ <tr> 
+ <td> 12th passed </td>
+ <td> 83% </td> 
+ <td> Ramseth Thakur Public school </td>
+ </td>
+ </table>
+ 
+
+
+<h4 style ="color:green;"><u><font size ="4">OBJECTIVE</h4></u></font>
+<p><font size ="4"> :-- To achieve a responsible place in a organization with my best abilities of hard work ,dedication and knowledge. </p></font>
+
+
+<h5 style ="color:green;"><u><font size ="4">PROFESSIONAL QUALIFICATION</h5></u></font>
+<P><font size ="4"> :-- Basic Knowledge Of Computer</p></font>
+
+<h6 style ="color:green;"><u><font size ="4">PERSONAL PROFILE</h6></u></font>
+
+<P><font size ="4"> :- Father Name	: Niteshbhai Patoliya</p></font>
+
+
+<P><font size ="4"> :- Date Of Birth	: 23-02-2006</p></font>
+
+
+<P><font size ="4"> :- Sex		: Male</p></font>
+
+
+<P><font size ="4"> :- Address		: Navi Mumbai   Ta.  :- Panvel
+							    Dis. ;- Raigad</p></font>
+	
+
+<P><font size ="4"> :- Nationality	: Indian</p></font>
+
+	
+<P><font size ="4"> :- Language Known	: Gujarati , Marathi ,Hindi , English</p></font>
+
+
+<P><font size ="4"> :- Hobbies		: Reading , Coding ,Travelling</p></font>
+
+
+
+
+
+
+	</body>
+
+
+
+
+</html>
